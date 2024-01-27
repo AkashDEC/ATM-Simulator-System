@@ -1,0 +1,1 @@
+The ATM Simulator System is a Java-based project that simulates an ATM machine. It includes various functionalities like balance inquiry, deposit, fast cash withdrawal, mini statement, and more. The system uses Java for its core logic, GUI and windows builder for the user interface, and MySQL for database management.
